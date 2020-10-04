@@ -140,5 +140,4 @@ function map_maker(quake_spots) {
     
     // Finally, we'll add the legend to our earthquake map.
     legend.addTo(earthquake_map);
-
 }
